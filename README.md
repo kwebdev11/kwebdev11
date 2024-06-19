@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-##<h3>🔥 Streak Stats</h3>
+<h3>🔥 Streak Stats</h3>
 [![GitHub Streak](https://streak-stats.demolab.com?user=kwebdev11&theme=github-dark-blue&border_radius=6&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
