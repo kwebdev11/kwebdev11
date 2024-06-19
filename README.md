@@ -1,4 +1,5 @@
-![](https://d2fl3xywvvllvq.cloudfront.net/wp-content/uploads/2020/12/dev_teams.jpg)
+<!--![](https://d2fl3xywvvllvq.cloudfront.net/wp-content/uploads/2020/12/dev_teams.jpg)-->
+![](https://w.forfun.com/fetch/21/21df13c9577708134001e5835bc38281.jpeg)
 
 <p align="center">
  
@@ -46,7 +47,8 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
 <h3>🔥 Streak Stats</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kwebdev11&theme=github-dark-blue&border_radius=6&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kwebdev11&theme=github-dark-blue&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwebdev11&show_icons=true&locale=en&layout=compact" alt="kwebdev11" /> -->
