@@ -1,5 +1,6 @@
-<!--![](https://d2fl3xywvvllvq.cloudfront.net/wp-content/uploads/2020/12/dev_teams.jpg)-->
-![](https://w.forfun.com/fetch/21/21df13c9577708134001e5835bc38281.jpeg)
+<!--![](https://d2fl3xywvvllvq.cloudfront.net/wp-content/uploads/2020/12/dev_teams.jpg)
+![](https://w.forfun.com/fetch/21/21df13c9577708134001e5835bc38281.jpeg)-->
+![](assets/mearn.png)
 
 <p align="center">
  
