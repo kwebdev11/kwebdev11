@@ -17,7 +17,7 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kunal 👨‍💻</h1>
 
-<h3 align="center">I'm a Passionate Web and App Developer from India ❤</h3>
+<h3 align="center">I'm a Passionate Web and Web Native App Developer from India ❤</h3>
 <!-- **kwebdev11/kwebdev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started: -->
 ![Focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 <!--![living](https://img.shields.io/badge/living-India) -->
 
-<p>With 6 years of experience under my belt, I've had the privilege of working with a wide range of technologies, including:</p>
+<p>With Nearly 7 years of experience under my belt, I've had the privilege of working with a wide range of technologies, including:</p>
 
-<p>HTML, CSS, and SASS for crafting responsive and visually appealing interfaces Angular, Angular Material, and Bootstrap for building robust and maintainable frontend applications Ionic and Capacitor.js for developing hybrid mobile apps GIT for version control and collaborative development PHP, Wordpress, and MYSQL for building dynamic web applications MONGODB for NoSQL database solutions JAVA basics for a solid foundation in programming principles</p>
+<p>HTML, CSS, and SASS for crafting responsive and visually appealing interfaces Angular, Angular Material, and Bootstrap for building robust and maintainable frontend applications Ionic and Capacitor.js for developing hybrid mobile apps GIT for version control and collaborative development with (PHP + Wordpress + MYSQL) (Angular + MongoDb\ PostgreSql + Ionic + Aws) for building dynamic web applications, JAVA basics for a solid foundation in programming principles</p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
@@ -38,14 +38,18 @@ Here are some ideas to get you started: -->
 
 <p>Feel free to explore my repositories, and let's connect if you're interested in working together on a project!</p>
 
-- 🔭 I’m currently working on Software App known as E-labs
+- 🔭 I’m currently working on Software App known as Fotosystem.
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Open Source Projects
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ⚙️ I use daily: .ts, .js, .html, .css, .scss, .json
+- 💬 Ask me about **Angular**, **Web Native apps** (and everything else, i'm happy to help 👨🏼‍💻😀✌️)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kunal-chola-k34c119/">LinkedIn</a> | <a href="mailto:webdevtechsolution@proton.me">E-mail</a>
+- ⚡ Fun fact: I like to Watch Anime series.
+- 📺 My Favorites: Dragon Ball Z | Attack On Titan | Black Clover | Jujutsu Kaisen | Demon Slayer | Black Clover | Kaiju No.8 | Solo Leveling | Sakamoto Days ...😁😁
+<!--
+- 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+ -->
 
 <h3>🔥 Streak Stats</h3>
 
