@@ -42,10 +42,10 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚙️ I use daily: .ts, .js, .html, .css, .scss, .json
-- 💬 Ask me about **Angular**, **Web Native apps** (and everything else, i'm happy to help 👨🏼‍💻😀✌️)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kunal-chola-k34c119/">LinkedIn</a> | <a href="mailto:webdevtechsolution@proton.me">E-mail</a>
+- 💬 Ask me about **Angular**, **Web Native apps** (and everything else, i'm happy to help 👨🏼‍💻😀✌️)
 - ⚡ Fun fact: I like to Watch Anime series.
-- 📺 My Favorites: Dragon Ball Z | Attack On Titan | Black Clover | Jujutsu Kaisen | Demon Slayer | Black Clover | Kaiju No.8 | Solo Leveling | Sakamoto Days ...😁😁
+- 📺 My Favorites: Dragon Ball Z | Attack On Titan | Black Clover | Jujutsu Kaisen | Demon Slayer | Kaiju No.8 | Solo Leveling | Sakamoto Days ...😁😁
 <!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
