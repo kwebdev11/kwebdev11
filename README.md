@@ -1,8 +1,8 @@
 <!--![](https://d2fl3xywvvllvq.cloudfront.net/wp-content/uploads/2020/12/dev_teams.jpg)
-![](https://w.forfun.com/fetch/21/21df13c9577708134001e5835bc38281.jpeg)-->
-![](assets/mearn.png)
+![](https://w.forfun.com/fetch/21/21df13c9577708134001e5835bc38281.jpeg)
+![](assets/mearn.png)-->
 
-<p align="center">
+<p align="left">
  
  <img src="https://badges.pufler.dev/visits/kwebdev11/kwebdev11"/> 
  <img src="https://badges.pufler.dev/repos/kwebdev11"/>
@@ -15,9 +15,9 @@
 
 </p>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kunal 👨‍💻</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kunal 👨‍💻</h1>
 
-<h3 align="center">I'm a Passionate Web and Web Native App Developer from India ❤</h3>
+<h3 align="left">I'm a Passionate Web and Web Native App Developer from India ❤</h3>
 <!-- **kwebdev11/kwebdev11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
@@ -130,7 +130,7 @@ Here are some ideas to get you started: -->
 
   <a href="https://github.com/kwebdev11/github-readme-activity-graph"><img alt="Kwebdev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kwebdev11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
+![](assets/mearn.png)
 <!-- <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
