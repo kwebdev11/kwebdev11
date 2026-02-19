@@ -7,8 +7,8 @@
  <img src="https://badges.pufler.dev/visits/kwebdev11/kwebdev11"/> 
  <img src="https://badges.pufler.dev/repos/kwebdev11"/>
  <img src="https://badges.pufler.dev/commits/monthly/kwebdev11" />  <!-- yearly, monthly, weekly, daily or all-->
- <img src="https://badges.pufler.dev/repos/kwebdev11" />
- <!-- <img src="https://badges.pufler.dev/gists/kwebdev11/kwebdev11"/> 
+ <!--  <img src="https://badges.pufler.dev/gists/kwebdev11/kwebdev11" />
+ <img src="https://badges.pufler.dev/gists/kwebdev11/kwebdev11"/> 
  <img src="https://badges.pufler.dev/years/kwebdev11"/>
  <img src="https://badges.pufler.dev/updated/kwebdev11/kwebdev11"/>
  <img src="https://badges.pufler.dev/created/kwebdev11/kwebdev11"/> -->
