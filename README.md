@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
 ![Focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 <!--![living](https://img.shields.io/badge/living-India) -->
 
-<p>With Nearly 7 years of experience under my belt, I've had the privilege of working with a wide range of technologies, including:</p>
+<p>With Nearly 8 years of experience under my belt, I've had the privilege of working with a wide range of technologies, including:</p>
 
 <p>HTML, CSS, and SASS for crafting responsive and visually appealing interfaces Angular, Angular Material, and Bootstrap for building robust and maintainable frontend applications Ionic and Capacitor.js for developing hybrid mobile apps GIT for version control and collaborative development with (PHP + Wordpress + MYSQL) (Angular + MongoDb\ PostgreSql + Ionic + Aws) for building dynamic web applications, JAVA basics for a solid foundation in programming principles</p>
 
